@@ -1,3 +1,8 @@
+#include "deep_sleep_clk.h"
+#include <stdlib.h>
+#include <generator.c>
+
+
 int create_ipv4_socket()
 {
   struct addrinfo hints;
